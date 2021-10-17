@@ -1,0 +1,36 @@
+#results-page-table-container{
+    margin: 20px auto;
+}
+
+#results-page-table-container table{
+    border-radius: 20px;
+    padding: 20px;
+    border-collapse: separate;
+}
+
+#results-page-table-container td{
+    padding: 3px;
+    border-color: #00204E;
+    border-left-width: 1px;
+    border-bottom-width: 1px;
+    border-style: solid;
+
+}
+
+#results-page-table-container th{
+    text-align: center;
+    position: sticky;
+    top: 2px;
+    z-index: 10;
+    background-color: #00204E;
+    color: white;
+    border-width: 1px;
+    border-style: solid;
+    border: #00204E;
+}
+
+#results-page-table-container td:last-child, #results-page-table-container th:last-child{
+    border-color: #00204E;
+    border-right-width: 1px;
+    border-right-style: solid;
+}
