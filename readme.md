@@ -1,41 +1,18 @@
 # Alexis Murari
 This repo is a clone of https://github.com/nelaturuk/education_pathways.
 
+## Activity 1
 
-# CARTE Education Pathways
+![Screenshot from 2021-10-15 17-52-30](https://user-images.githubusercontent.com/60163267/137642068-70e78fd3-0d99-4e3f-bab2-1d45faef96fe.png)
 
-## Description
-Welcome to CARTE's in-development tool for course selection at UofT. Education Pathways allows for more intelligent course searching, by matching not just the terms you search, but ones relevant to them. The more terms you search for, the more relevant your results will be! Even try searching across disciplines for the courses that best cover each.
+## Activity 2-5
 
-Whatever year you are looking for, Education Pathways will also suggest courses in earlier years that will best help you to prepare. To get the most out of this, try searching for courses in a later year and see what is suggested for your current one.
+![Screenshot from 2021-10-17 14-44-26](https://user-images.githubusercontent.com/60163267/137642089-33ae84d9-4173-493e-bf41-cf8d4cdbafcb.png)
 
-We are looking for feedback to improve Education Pathways and make it more useful for students. If you have ideas or suggestions, please email us!
+![Screenshot from 2021-10-17 15-10-02](https://user-images.githubusercontent.com/60163267/137642095-1e5a8335-d075-4408-a2d1-e41bd390cfda.png)
 
-## Setup Instructions
+![Screenshot from 2021-10-17 15-09-47](https://user-images.githubusercontent.com/60163267/137642099-01369825-b2df-47fd-8c01-593087a7a134.png)
 
-### With Docker
+## Activity 6
 
-
-
-## Repository files:
-
-`./Procfile ./wsgi.py` *tells gunicorn how to run the program*
-
-`./environment.yml  ./requirements.txt` *specifies python requirements for anaconda and pip respectively*
-
-`./__init__.py` *main flask code*
-
-`./readme.md` *this file*
-
-`./resources:` *contains datasets used in the program*
-
-`course_vectorizer.pickle df_processed.pickle`
-
-`course_vectors.npz       graph.pickle`
-
-`./static:` *contains any static elements of the webpage, in this case just the CARTE logo*
-`CARTE_logo.jpg`
-
-`./templates:` *contains flask templates for rendering HTML*
-
-`_formhelpers.html course.html       index.html        results.html`
+The different elements, especially the search elements, are aligned correctly with the search parameters being bolded. The search filters being aligned make the platform more readable and intuitive. The user can understand more easily how to process with the search feature with this presentation.
